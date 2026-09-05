@@ -1,5 +1,4 @@
  # hello-world
 This repository is for practicing the GitHub Flow.
-
-#about me
-My name is Mia Wu
+# about me
+My name is Mia Wu.
